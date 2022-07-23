@@ -7,3 +7,7 @@ Movie app is written using Kotlin with MVVM Architecture and Jetpack Compose
 
 </pre>
 
+## Dependencies
+*  LiveData
+*  Navigation
+
